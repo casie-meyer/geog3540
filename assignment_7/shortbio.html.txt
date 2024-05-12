@@ -62,36 +62,24 @@
 	<img class="card-img-top" src="images/casie.png" alt="">
 	</div>
 
-	< p class="card-text">bio bio bio bio bio bio. </p>
+	< p class="card-text">My name is Casie Meyer. I'm an environmental engineering student at the University of Iowa, minoring in Geography. 
+	My junior year of high school, I wrote a research essay about climate change, and discovered that I'm immensely interested in environmental issues. 
+	From this moment on, every project I did or paper I wrote was about something environment related. I knew I wanted to go to college to study a related field, 
+	so I landed in environmental engineering. 
+
+	My main goal in the environmental engineering field is to make an impact. I've worked hard in every past situation I've been in to make an impact where I was.
+	 I graduated high school with a 4.3 GPA. I earned an internship at one of the biggest law offices in Cedar Rapids right out of high school. In college, I knew 
+	that I wanted to do more than just academics, so I got involved in multiple organizations. I joined several engineering-specific student organizations to make 
+	friends with as many engineering students as possible. I've also been able to gain some real world experience with the multiple engineering-related jobs I've 
+	had. In professional settings, I've worked in research to collect and analyze water quality data from around the state of Iowa. I've worked in administrative 
+	settings to learn organizational and soft skills. I've done all of this while balancing schoolwork and participating in multiple study abroad opportunities. 
+
+	I've worked hard to get this point, and I will use my education, experience, and work ethic to make a difference within the field of environmental engineering. </p>
 
     
       </div>
       <!-- /.row -->
 
-      <!-- Pagination -->
-      <ul class="pagination justify-content-center">
-        <li class="page-item">
-          <a class="page-link" href="#" aria-label="Previous">
-            <span aria-hidden="true">&laquo;</span>
-            <span class="sr-only">Previous</span>
-          </a>
-        </li>
-        <li class="page-item">
-          <a class="page-link" href="#">1</a>
-        </li>
-        <li class="page-item">
-          <a class="page-link" href="#">2</a>
-        </li>
-        <li class="page-item">
-          <a class="page-link" href="#">3</a>
-        </li>
-        <li class="page-item">
-          <a class="page-link" href="#" aria-label="Next">
-            <span aria-hidden="true">&raquo;</span>
-            <span class="sr-only">Next</span>
-          </a>
-        </li>
-      </ul>
 
     </div>
     <!-- /.container -->
@@ -99,7 +87,7 @@
     <!-- Footer -->
     <footer class="py-5 bg-dark">
       <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2018</p>
+        <p class="m-0 text-center text-white">Copyright &copy; Casie Meyer 2024</p>
       </div>
       <!-- /.container -->
     </footer>
