@@ -1,1 +1,1 @@
-# This is a repository for my portfolio for my geovisualization portfolio
+# This is a repository for my Geovisualization portfolio
